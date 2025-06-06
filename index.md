@@ -1,5 +1,5 @@
 ---
-title: Alexander Brunkow - Portfolio
+title: Mein Portfolio
 layout: default
 ---
 
