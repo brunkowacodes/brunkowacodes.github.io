@@ -1,3 +1,3 @@
 # brunkowacodes.github.io
 
-Testtest hallo
+Das Repository zu meiner Portfolio Page. 
