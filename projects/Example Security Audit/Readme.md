@@ -1,6 +1,6 @@
 # Beispiel Security Audit
 
-In diesem Projekt habe ich, im Rahmen des Google Foundations of Cybersecurity Kurses, für eine imaginäre Firma namens "Botium Toys" ein Security Audit durchgeführt.
+In diesem Projekt habe ich, im Rahmen des Google Foundations of Cybersecurity Kurses, für eine imaginäre Firma namens "Botium Toys" einen internen Security Audit durchgeführt.
 
 Es wurde ein beispielhafter Risk-Assessment-Report bereitgestelt anhand dessen eine (ebenfalls bereitgestellte) Controls-and-Compliance-Checklist ausgefüllt werden sollte.
 
