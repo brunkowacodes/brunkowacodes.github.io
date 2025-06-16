@@ -1,4 +1,4 @@
-Beispiel Security Audit
+# Beispiel Security Audit
 
 In diesem Projekt habe ich, im Rahmen des Google Foundations of Cybersecurity Kurses, für eine imaginäre Firma namens "Botium Toys" ein Security Audit durchgeführt.
 
