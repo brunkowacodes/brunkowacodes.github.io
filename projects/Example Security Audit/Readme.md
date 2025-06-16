@@ -4,7 +4,7 @@ In diesem Projekt habe ich, im Rahmen des Google Foundations of Cybersecurity Ku
 
 Es wurde ein beispielhafter Risk-Assessment-Report bereitgestelt anhand dessen eine (ebenfalls bereitgestellte) Controls-and-Compliance-Checklist ausgefüllt werden sollte.
 
-Dafür habe ich den Risk-Assessment-Report überprüft, im Bezug auf typische Security-Controls sowie auf Compliance mit der PCI DSS, DSGVO, SOC1 und SOC2 evaluiert sowie zu empfehlende Maßnahmen aufgeführt. 
+Dafür habe ich den Risk-Assessment-Report überprüft, im Bezug auf typische Security-Controls sowie Compliance mit der PCI DSS, DSGVO, SOC1 und SOC2 evaluiert sowie zu empfehlende Maßnahmen aufgeführt. 
 
 Die ausgefüllte [Controls-and-Compliance-Checklist](/projects/Example%20Security%20Audit/Controls-and-Compliance-Checklist.pdf) kann direkt hier eingesehen werden.
 
