@@ -8,4 +8,4 @@ Dafür habe ich den Risk-Assessment-Report überprüft und im Bezug auf typische
 
 Die ausgefüllte [Controls-and-Compliance-Checklist](/projects/Example%20Security%20Audit/Controls-and-Compliance-Checklist.pdf) ist direkt in diesem Projektordner.
 
-Die bereitgestellten Materialien sind in dem entsprechend benannten Ordner zu finden.
+Die bereitgestellten Materialien sind in dem [entsprechenden Ordner](projects/Example%20Security%20Audit/Bereitgestellte%20Dateien) zu finden.
