@@ -1,6 +1,6 @@
 # Meine Projekte
 
-## Example Security Audit
+### Example Security Audit
 
 Beschreibung oder kurze Info über das Projekt.
 
