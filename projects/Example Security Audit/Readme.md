@@ -7,4 +7,5 @@ Es wurde ein beispielhafter Risk-Assessment-Report bereitgestelt anhand dessen e
 Dafür habe ich den Risk-Assessment-Report überprüft und im Bezug auf typische Security-Controls sowie auf Compliance mit der PCI DSS, DSGVO, SOC1 und SOC2 evaluiert.
 
 Die ausgefüllte [Controls-and-Compliance-Checklist](/projects/Example%20Security%20Audit/Controls-and-Compliance-Checklist.pdf) ist direkt in diesem Projektordner.
+
 Die bereitgestellten Materialien sind in dem entsprechend benannten Ordner zu finden.
